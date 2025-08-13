@@ -37,3 +37,7 @@ This package is designed for environments where:
 ## ⚠️ Disclaimer
 
 Use at your discretion. This tool is provided as-is, with the intent to preserve legacy functionality—not to modernize or replace it.
+
+## Stewardship & Support
+
+This project is part of a broader effort to preserve legacy tools and community infrastructure at Art Works in Richmond, VA. If this work has helped you or if you believe in sustaining affordable art spaces and technical knowledge, consider sponsoring or donating via Venmo (@TaxShack).
