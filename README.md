@@ -6,11 +6,11 @@ This installer provides the essential Crystal Reports 9.x components required fo
 
 This package is designed for environments where:
 - Crystal Reports 9 was originally used for report design  
-- Applications were built using **Visual Studio .NET 2003** (Academic or Professional Edition)  
+- Applications were built using **Visual Studio .NET 2003** 
 - The goal is to restore runtime functionality on modern Windows systems (Win10/Win11)
 
 > **Note:** This package targets the Crystal Reports runtime embedded with Visual Studio .NET 2003.  
-> It has been primarily tested with the Academic Edition, but is expected to work with the Professional Edition as well.  
+> It has been tested with the Academic and Professional Editions.  
 > It has not been tested against the full standalone Crystal Reports 9 installation, though it may still work in those environments depending on how reports were authored and deployed.
 
 > **Compatibility:** To the best of our knowledge, this installer does not conflict with other installed versions of Crystal Reports.  
@@ -31,12 +31,12 @@ This package is designed for environments where:
 ## 🧪 Tested Environments
 
 - Clean installations of Windows 10 and Windows 11  
-- Visual Studio .NET 2003 (Academic Edition) targeting .NET Framework 1.1  
+- Visual Studio .NET 2003 targeting .NET Framework 1.1  
 - Applications written in **VB.NET 2003** using embedded Crystal Reports 9 runtime
 
 ## ⚠️ Disclaimer
 
-Use at your discretion. This tool is provided as-is, with the intent to preserve legacy functionality—not to modernize or replace it.
+Use at your discretion. This tool is provided as-is, with the intent to preserve legacy functionality — not to modernize or replace it.
 
 ## Stewardship & Support
 
