@@ -1,4 +1,4 @@
-# 📦 Crystal Reports 9 Runtime Installer for Visual Studio .NET 2003 (.NET 1.1)
+# 📦 CR9 Runtime Installer for Visual Studio .NET 2003 (.NET 1.1)
 
 This installer provides the essential Crystal Reports 9.x components required for applications built with Visual Studio .NET 2003 using the .NET 1.1 framework.
 
