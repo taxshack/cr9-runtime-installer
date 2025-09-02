@@ -10,7 +10,6 @@ This package is designed for environments where:
 - The goal is to restore runtime functionality on modern Windows systems (Win10/Win11)
 
 > **Note:** This package targets the Crystal Reports runtime embedded with Visual Studio .NET 2003.  
-> It has been tested with the Academic and Professional Editions.  
 > It has not been tested against the full standalone Crystal Reports 9 installation, though it may still work in those environments depending on how reports were authored and deployed.
 
 > **Compatibility:** To the best of our knowledge, this installer does not conflict with other installed versions of Crystal Reports.  
